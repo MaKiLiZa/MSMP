@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+}
+header{
+    background-color: black;
+    color: white;
+    position: fixed;
+}
+.p{
+    transform: translate(100px, -50px);
+    font-size: 23px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.choose1{
+    transform: translate(600px, 10px);
+    top: 0px;
+}
+.choose2{
+    transform: translate(700px, 10px);
+}
+#icon{
+    transform: translate(20px, 0px);
+    width: 50px;
+    height: 50px;
+}
